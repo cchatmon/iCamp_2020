@@ -586,7 +586,104 @@ section {
   color: #2487ce;
   line-height: 1;
 }
+/*--------------------------------------------------------------
+# ADDED
+--------------------------------------------------------------*/
 
+.services .content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.services .content ul li {
+  padding-left: 28px;
+  position: relative;
+}
+
+.services .content ul li + li {
+  margin-top: 10px;
+}
+
+.services .content ul i {
+  position: absolute;
+  left: 0;
+  top: 2px;
+  font-size: 20px;
+  color: #2487ce;
+  line-height: 1;
+}
+
+.portfolio .content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.portfolio .content ul li {
+  padding-left: 28px;
+  position: relative;
+}
+
+.portfolio .content ul li + li {
+  margin-top: 10px;
+}
+
+.portfolio .content ul i {
+  position: absolute;
+  left: 0;
+  top: 2px;
+  font-size: 20px;
+  color: #2487ce;
+  line-height: 1;
+}
+
+.team .content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.team .content ul li {
+  padding-left: 28px;
+  position: relative;
+}
+
+.team .content ul li + li {
+  margin-top: 10px;
+}
+
+.team .content ul i {
+  position: absolute;
+  left: 0;
+  top: 2px;
+  font-size: 20px;
+  color: #2487ce;
+  line-height: 1;
+}
+
+.pricing .content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.pricing .content ul li {
+  padding-left: 28px;
+  position: relative;
+}
+
+.pricing .content ul li + li {
+  margin-top: 10px;
+}
+
+.pricing .content ul i {
+  position: absolute;
+  left: 0;
+  top: 2px;
+  font-size: 20px;
+  color: #2487ce;
+  line-height: 1;
+}
+/*--------------------------------------------------------------
+# END of ADDED
+--------------------------------------------------------------*/
 .about .content p:last-child {
   margin-bottom: 0;
 }
